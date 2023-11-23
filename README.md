@@ -43,61 +43,61 @@
 
         @keyframes backgrd {
             10%{
-                background-image: url(back.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             20%{
-                background-image: url(back1.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back1.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             30%{
-                background-image: url(back2.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back2.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             40%{
-                background-image: url(back3.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back3.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             50%{
-                background-image: url(back4.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back4.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             60%{
-                background-image: url(back5.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back5.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             70%{
-                background-image: url(back6.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back6.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             80%{
-                background-image: url(back7.webp);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back7.webp);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             90%{
-                background-image: url(back8.jpg);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back8.jpg);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             100%{
-                background-image: url(back9.jpg);
+                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back9.jpg);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
