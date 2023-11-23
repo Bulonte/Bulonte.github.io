@@ -24,7 +24,7 @@
             height: 30px;
             position: absolute;
             top: 45%;
-            right: 40%;
+            right: 50%;
             z-index: 1;
             margin: auto;
             border-radius: 8px;
