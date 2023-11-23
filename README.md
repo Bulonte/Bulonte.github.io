@@ -49,7 +49,7 @@
                 background-size: 100% 100%;
             }
             20%{
-                background-image: url(https://hbimg.huabanimg.com/005c46a1ac9182e0032da1dea018d65d068a1789353c8-sq5mOo_fw658);
+                background-image: url(https://img0.baidu.com/it/u=1275957006,2804601911&fm=253&fmt=auto&app=120&f=JPEG?w=972&h=547);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
@@ -91,13 +91,13 @@
                 background-size: 100% 100%;
             }
             90%{
-                background-image: url(https://up.enterdesk.com/edpic/d2/90/7a/d2907a49a38c498483240eb2c0d0f246.jpg);
+                background-image: url(https://img0.baidu.com/it/u=712566131,3983997985&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800));
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             100%{
-                background-image: url(https://up.enterdesk.com/edpic_source/29/29/94/292994eea1a2bcafc11f318d75fa4ac4.jpg);
+                background-image: url(https://img2.baidu.com/it/u=3544574983,548611002&fm=253&fmt=auto&app=120&f=JPEG?w=800&h=500);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
