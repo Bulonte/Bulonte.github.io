@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <style>
         .backgd{
 
@@ -43,61 +43,61 @@
 
         @keyframes backgrd {
             10%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back.webp);
+                background-image: url(https://img1.baidu.com/it/u=2929710579,3996007340&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             20%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back1.webp);
+                background-image: url(https://hbimg.huabanimg.com/005c46a1ac9182e0032da1dea018d65d068a1789353c8-sq5mOo_fw658);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             30%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back2.webp);
+                background-image: url(https://img1.baidu.com/it/u=656623292,2245164793&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             40%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back3.webp);
+                background-image: url(https://img0.baidu.com/it/u=1392236192,1385822212&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=500);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             50%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back4.webp);
+                background-image: url(https://img1.baidu.com/it/u=2607421435,3103445332&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             60%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back5.webp);
+                background-image: url(https://img1.baidu.com/it/u=3518132070,368873898&fm=253&fmt=auto&app=120&f=JPEG?w=1422&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             70%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back6.webp);
+                background-image: url(https://img0.baidu.com/it/u=281809113,3813738604&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             80%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back7.webp);
+                background-image: url(https://img0.baidu.com/it/u=2926522521,2114530697&fm=253&fmt=auto&app=120&f=JPEG?w=1280&h=800);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             90%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back8.jpg);
+                background-image: url(https://up.enterdesk.com/edpic/d2/90/7a/d2907a49a38c498483240eb2c0d0f246.jpg);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
             }
             100%{
-                background-image: url(https://githubfast.com/Bulonte/Bulonte.github.io/blob/main/picture/back9.jpg);
+                background-image: url(https://up.enterdesk.com/edpic_source/29/29/94/292994eea1a2bcafc11f318d75fa4ac4.jpg);
                 width: 100%;
                 height: 100%;
                 background-size: 100% 100%;
@@ -116,7 +116,7 @@
         alert("嗯...无法访问此页面 花了太长时间进行响应")
         alert("404 Not Found")
         alert("您访问的页面不存在")
-        alert("您的网络未连接，请检查互联网后重试")
+        alert("您的网络未连接，请检查互联网后重试?")
         alert("该站点存在风险，您确定要继续访问吗？")
     </script>
 </body>
