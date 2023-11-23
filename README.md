@@ -13,23 +13,15 @@
             z-index: 0;
             animation: backgrd 20s 0s linear infinite;
         }
-        
+        h1{
+            text-align:center;
+            font-size:50px;
+        }
         div{
             display: flex;
             justify-content: center;
         }
 
-        input{
-            width: 300px;
-            height: 30px;
-            position: absolute;
-            top: 45%;
-            right: 50%;
-            z-index: 1;
-            
-            border-radius: 8px;
-
-        }
         button{
             height: 35px;
             position:absolute;
@@ -109,7 +101,7 @@
 <body>
     <div class="backgd"></div>
     <div>
-        <input type="text">
+        <h1>Welcome to my frist page</h1>
         <button><a href="https://githubfast.com/Bulonte/Tasks">千万别点</a></button>
     </div>
     <script>
