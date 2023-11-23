@@ -27,7 +27,7 @@
             position:absolute;
             top: 45%;
             z-index: 1;
-            right: 34%;
+            right: 45%;
             border-radius: 8px;
         }
         button:hover{
