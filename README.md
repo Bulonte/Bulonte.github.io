@@ -102,7 +102,7 @@
     <div class="backgd"></div>
     <div>
         <h1>Welcome to my frist page</h1>
-        <button><a href="https://githubfast.com/Bulonte/Tasks">千万别点</a></button>
+        <button><a href="(https://ys.mihoyo.com/)">千万别点</a></button>
     </div>
     <script>
         alert("该站点存在风险，您确定要继续访问吗？")
